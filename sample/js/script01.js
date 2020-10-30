@@ -25,7 +25,7 @@ $(function(){
     }
   })
 
-  ("#button05").on("click",function(){
+  $("#button05").on("click",function(){
     students = students.reverse()
   })
   
